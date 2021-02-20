@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Privacy
+layout: default
 permalink: /privacy/
 ---
-
 
 
 1. General
