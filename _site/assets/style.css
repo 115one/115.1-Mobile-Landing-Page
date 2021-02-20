@@ -18,7 +18,7 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #222;
   display: flex;
   min-height: 100vh;
@@ -94,7 +94,8 @@ a:hover {
 }
 
 h1, h2 {
-  font-family: "Heebo", sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: bold;
 }
 
 .container-desktop {
