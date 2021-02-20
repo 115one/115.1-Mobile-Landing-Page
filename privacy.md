@@ -1,11 +1,11 @@
 ---
-title: Privacy
-layout: default
+title: Privacy Policy
+layout: markdown
 permalink: /privacy/
 ---
 
+# 1. General
 
-1. General
 Life on Life LLC, (“LL,” “us,” “our,” or “we”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes: 
 
 The types of information we may collect or that you may provide when you install, access, or use the 115.1 application (the "App").
@@ -24,21 +24,22 @@ LL is a limited liability company registered in the state of Delaware and whose 
 
 By using the App, you acknowledge our collection, use and sharing of your personal information as set forth in the relevant sections of this policy. You also acknowledge that by providing your personal information through the App your personal information is directly transferred to and accessed by our personnel in the United States. If you do not wish for your personal information to be used in the manner set out in this policy or transferred to the United States, you should not download, access or use the App.
 
-2. Children Under the Age of 13
+# 2. Children Under the Age of 13
+   
 The App is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us (Contact Information) and we will delete the information.
 
 Additional information for European users 
 
 In addition, we may limit how we collect, use and store some of the information of European Users between 13 and 16. In some cases, this means we will be unable to provide certain functionality to these users. If we need to rely on consent as a legal basis for processing your information and your country requires consent from a parent, we may require your parent’s consent before we collect and use that information.
 
-3. Information We Collect and How We Collect It
+# 3. Information We Collect and How We Collect It
 We collect information from and about users of our App:
 
 Directly from you when you provide it to us (for example, when you download the App and/or complete data fields within the App or otherwise upload or provide information to or through the App).
 
 Automatically when you use the App.
 
-3.1.Information You Provide to Us
+### 3.1 Information You Provide to Us
 When you download, register with, or use this App, we ask you to provide information:
 
 By which you may be personally identified, such as name, photo, postal address, email address, telephone number, age / date of birth, gender, geography, language, personal spiritual experience, spiritual gifts, areas of service and interest, personal testimony and payment information or other personal information ("personal information").
@@ -61,7 +62,7 @@ Information about your preferences in receiving marketing from us, your response
 
 You may also provide information for publication or display ("Posted") on public areas of the app or websites you access through the App (collectively, "User Contributions"). Your User Contributions are Posted and transmitted to others at your own risk. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-3.2 Automatic Information Collection and Tracking
+### 3.2 Automatic Information Collection and Tracking
 When you download, access, and use the App, it uses technology to automatically collect:
 
 Usage Details. When you access and use the App, we automatically collect certain details of your access to and use of the App, including location data, logs, and other communication data and the resources and features that you access, use or engage with on or through the App.
@@ -74,24 +75,24 @@ Location Information. Where you expressly consent, the App may collect real-time
 
 Note, you may control the information we receive through the App by setting your preferences on your device, however, that opting out of the App's collection of location information will disable its location-based features.
 
-3.3.Information Collection and Tracking Technologies
+### 3.3 Information Collection and Tracking Technologies
 The technologies we use for automated information collection may include those below. LL does not use or support online behavioral advertising techniques or targeted advertising on the App.
 
-3.3.1.Cookies (or mobile cookies) and Unique Device Identifiers
+#### 3.3.1.Cookies (or mobile cookies) and Unique Device Identifiers
 
 A cookie is a small file placed on your smartphone. It may be possible to refuse to accept mobile cookies by activating the appropriate setting on your smartphone. However, if you select this setting you may be unable to access certain parts of our App. You can find more information about cookies and how to manage them at www.allaboutcookies.org.
 
-Type of Cookie and their purpose
+#### Type of Cookie and their purpose
 
-Essential Cookies
+##### Essential Cookies
 
 These cookies are essential to provide you with services available through our App and to enable you to use some of their features. Without these cookies, the services that you request via our App may not be possible to provide. We only use these cookies to provide you with those services.
 
-Functionality Cookies
+##### Functionality Cookies
 
 These cookies allow our App to remember choices you make when you use our App. The purpose of these cookies is to provide you with a more personalized experience and to avoid you from having to re-select your preferences every time you use our Services.
 
-Analytics and Performance Cookies
+##### Analytics and Performance Cookies
 
 These cookies are used to collect information about traffic to our App and how users use our App. The information gathered may include the number of visitors to our App, the websites that referred them to our App, the pages they visited on our Services, what time of day they visited our Services, whether they have visited our App before, the region/territory in which you download our App, and other similar information. We use this information to help operate our App more efficiently, to gather demographic information and to monitor the level of activity on our App.
 
@@ -101,14 +102,14 @@ If you do not accept our cookies or similar technologies, you may experience som
 
 In addition to or instead of cookies, we use your device’s unique device identifier to recognize you. We use the unique device identifier and mobile analytics software to allow us to better understand the functionality of the App on your device. The software may record information such as how often you use the App, the activity that occurs within the App, aggregated usage, performance data, and where the App was downloaded from.
 
-3.3.2 Web Beacons
+#### 3.3.2 Web Beacons
 
 Pages of the App and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit LL, for example, to count users who have visited those pages or opened an email and for other related App statistics (for example, recording the popularity of certain App content and verifying system and server integrity).
 
-3.4 Third-Party Links and/or Information Collection
+### 3.4 Third-Party Links and/or Information Collection
 When you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties may include your mobile device manufacturer or your mobile service provider. The App may also contain links to third party websites. We are not responsible for the privacy practices of these other websites or third parties. We encourage users to read the privacy statements of other websites and third parties that may collect your personal information. This policy applies only to information collected by LL via the App.
 
-4. How We Use Your Information
+## 4. How We Use Your Information
 We use information that we collect about you or that you provide to us, including any personal information, to:
 
 Install and provide the App and its contents and provide the in-App services (including making in-App donations and using the in-app communication and sharing features).
@@ -143,7 +144,7 @@ Maintain App security.
 
 Fulfill any other purpose for which you provide it.
 
-Additional information for European users 
+#### Additional information for European users 
 
 For European users, we rely on the following legal grounds for processing your personal information:
 
@@ -183,7 +184,7 @@ Processing Purpose:  Personalize the App and provide content, connections and fe
 
 Legal Basis to Process your Personal Information:  Our legitimate interests in developing the Services, keeping content and features relevant, keeping users engaged with the Services, and growing our business. To the extent this involves storing information on your device such as cookies or other similar web technologies, your consent. To the extent this involves processing personal information relating to your religious beliefs or affiliation, your explicit consent.
 
-5. Disclosure of Your Information
+## 5. Disclosure of Your Information
 We may disclose anonymized aggregated information about our users, and information that does not identify any individual or device, without restriction. 
 
 For the purposes of providing you with the functionality and services through the App, our legal obligations and any other purpose permitted by you, we may disclose personal information as follows:
@@ -198,7 +199,7 @@ In connection with compliance with laws and the protection of our rights and the
 
 For any other purpose disclosed by us when you provide the information, with your consent.
 
-6. Accessing and Correcting Your Personal Information; Your Rights
+## 6. Accessing and Correcting Your Personal Information; Your Rights
 You can review and change your personal information by logging into the App and visiting your profile page. 
 
 You may also send us an email at support@115.one to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
@@ -227,14 +228,14 @@ Please note that some of these rights are not absolute and we may refuse a reque
 
 You have the right to make a complaint at any time to your supervisory authority for data protection issues. A list of supervisory authorities is available here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. If you need further assistance regarding your rights, please contact us using the contact details below (Contact Information).
 
-7. Data Retention
+## 7. Data Retention
 We only retain your personal information for as long as necessary to fulfil the purposes for which it was collected, including for the purposes of satisfying legal, accounting, or reporting requirements. 
 
 Additional information for European Users 
 
 Where you have an account on the App, we retain your personal information while you have an account. Where you choose to terminate your account, we delete or anonymize your personal information within 60 days. In the event that you do not use the App for a period of 12 months then we will treat the account as expired and your personal information may be deleted.  In some circumstances we may anonymize your personal information (so that it can no longer be associated with you) for research and statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-8. Fair Information Practices
+## 8. Fair Information Practices
 The Fair Information Practices Principles form the backbone of privacy law in the United States, and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles, and how they should be implemented, is critical to comply with the various privacy laws that protect personal information.
 
 In order to be in line with Fair Information Practices, we will take the following responsive action should a data breach occur:
@@ -249,7 +250,7 @@ Additional Information for European Users
 
 We will comply with the GDPR and applicable local legislation in respect of notifying you of a personal data breach relating to the App.
 
-9. Marketing
+## 9. Marketing
 In relation to marketing communications, we will provide you with an “opt in” or “opt out” mechanism depending on where you are located when we collect your personal information. An “opt in” mechanism will provide you the opportunity to positively indicate that you would like to receive our marketing communications and we will not send you any unless you have “opted in”. An “opt out” mechanism (e.g., “unsubscribe”) will provide you the opportunity to indicate that you do not want us to send you such communications, and if you “opt out” we will not send you any.
 
 You may opt out of marketing-related emails by clicking on a link at the bottom of each such email, or by contacting us using the contact details above (Contact Information). You may continue to receive service-related and other non-marketing emails.
@@ -258,7 +259,7 @@ Additional Information for European Users
 
 We will get your express opt-in consent before we share your personal information with any third party for that third party’s marketing purposes.
 
-10. International Transfers
+## 10. International Transfers
 We are based in the United States and so information is transferred to and accessed by our personnel in the United States. By using the App, you consent to the processing, transfer and storage of your information in and to the United States and other countries, where you may not have the same rights as you do under your local law. We will process your personal information in accordance with applicable law and with this policy regardless of where your personal information is stored or accessed.
 
 By providing your personal information through the App you acknowledge that your personal information is transferred to and accessed by our personnel in the United States.
@@ -267,25 +268,20 @@ Additional information for European users
 
 Where our service providers or other third parties (identified above) based outside the European Economic Area, the UK or Switzerland receive personal information, we ensure the transfer is either (a) to a country deemed to provide an adequate level of protection by the European Commission or other relevant authority, or (b) pursuant to specific contracts approved by the European Commission or other relevant authority. Please contact us if you want further information on the specific mechanism used by us when transferring your personal information to a destination outside the European Economic Area, the UK or Switzerland.
 
-11. Data Security
+## 11. Data Security
 We have implemented technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our App, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the App like message boards. The information you share in public areas may be viewed by any user of the App.
 
 Unfortunately, the transmission of information via the internet and mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted through our App. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide.
 
-12. Changes to Our Privacy Policy
+## 12. Changes to Our Privacy Policy
 We may update our privacy policy from time to time. If we make material changes to how we treat our users' personal information, we will post the new privacy policy on this page and notify you. The date the privacy policy was last revised is identified at the top of the page. You are responsible for visiting this privacy policy to check for any changes.
 
-13. Contact Information
+## 13. Contact Information
 To ask questions or comment about this privacy policy and our privacy practices or to register a complaint or concern, please contact us at: 
 
-Email: support@115.one marked for the attention of the Privacy Officer / Data Protection Officer in the subject line.
+Email <support@115.one> marked for the attention of the Privacy Officer / Data Protection Officer in the subject line.
 
-Mailing address: 
-Life on Life LLC
-PO Box 111653
-Naples
-FL 34108
-USA
+Mailing address: Life on Life LLC, PO Box 111653, Naples, FL 34108, USA
 
-Last modified: 13 February 2021
+*Last modified: 13 February 2021*
 
