@@ -22,3 +22,4 @@ https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-githu
 ### Credits
 
 https://github.com/sandoche/Mobile-app-landingpage-template
+https://www.npmjs.com/package/rqrauhvmra__tobi
