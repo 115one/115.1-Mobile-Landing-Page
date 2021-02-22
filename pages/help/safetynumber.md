@@ -1,6 +1,6 @@
 ---
 title: Safety number
-layout: markdown
+layout: help
 permalink: /help/safety-number
 ---
 

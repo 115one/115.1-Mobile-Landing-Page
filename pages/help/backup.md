@@ -1,6 +1,6 @@
 ---
 title: Backup
-layout: markdown
+layout: help
 permalink: /help/backup
 ---
 

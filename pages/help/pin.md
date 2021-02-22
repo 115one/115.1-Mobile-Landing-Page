@@ -1,6 +1,6 @@
 ---
 title: Pin
-layout: markdown
+layout: help
 permalink: /help/pin
 ---
 

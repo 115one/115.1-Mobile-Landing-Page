@@ -1,6 +1,6 @@
 ---
 title: Support
-layout: markdown
+layout: help
 permalink: /support
 ---
 

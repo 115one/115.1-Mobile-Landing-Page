@@ -1,6 +1,6 @@
 ---
 title: Profiles
-layout: markdown
+layout: help
 permalink: /help/profiles
 ---
 

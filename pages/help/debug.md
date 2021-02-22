@@ -1,6 +1,6 @@
 ---
 title: Debug
-layout: markdown
+layout: help
 permalink: /help/debug
 ---
 
