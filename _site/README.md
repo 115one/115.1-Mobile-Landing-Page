@@ -15,6 +15,11 @@ git push origin master
 ```
 
 
+#TODO
+
+Replace:
+https://www.npmjs.com/package/rqrauhvmra__tobi
+
 ### Useful links
 
 https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/
@@ -22,4 +27,4 @@ https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-githu
 ### Credits
 
 https://github.com/sandoche/Mobile-app-landingpage-template
-https://www.npmjs.com/package/rqrauhvmra__tobi
+https://www.css-script.com/pages/sidebar/sidebar-menu-toggle-1.html
