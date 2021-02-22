@@ -1,7 +1,7 @@
 ---
 title: Pin
 layout: markdown
-permalink: /help/debug
+permalink: /help/pin
 ---
 
 Coming soon
