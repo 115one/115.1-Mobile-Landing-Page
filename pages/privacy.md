@@ -18,17 +18,17 @@ This policy DOES NOT apply to information that we collect offline or on any othe
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not download, register with, or use this App. By downloading, registering with, or using this App, you agree to this privacy policy. This policy may change from time to time. Your continued use of this App after we revise this policy means you accept those changes, so please check the policy periodically for updates. 
 
-Additional information for European Users 
+#### Additional information for European Users 
 
-LL is a limited liability company registered in the state of Delaware and whose place of business is at 614 N. DuPont Hwy., Suite 210, Dover, DE 19901. LL is the data controller of the personal information collected through the App for the purposes of the EU General Data Protection Regulation (GDPR) and any relevant local legislation. We have appointed a Data Protection Officer who can be contacted using the contact details below (Contact Information). 
+LL is a limited liability company registered in the state of Delaware and whose place of business is at 614 N. DuPont Hwy., Suite 210, Dover, DE 19901. LL is the data controller of the personal information collected through the App for the purposes of the EU General Data Protection Regulation (GDPR) and any relevant local legislation. We have appointed a Data Protection Officer who can be contacted using the contact details below. 
 
 By using the App, you acknowledge our collection, use and sharing of your personal information as set forth in the relevant sections of this policy. You also acknowledge that by providing your personal information through the App your personal information is directly transferred to and accessed by our personnel in the United States. If you do not wish for your personal information to be used in the manner set out in this policy or transferred to the United States, you should not download, access or use the App.
 
 # 2. Children Under the Age of 13
    
-The App is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us (Contact Information) and we will delete the information.
+The App is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us and we will delete the information.
 
-Additional information for European users 
+#### Additional information for European users 
 
 In addition, we may limit how we collect, use and store some of the information of European Users between 13 and 16. In some cases, this means we will be unable to provide certain functionality to these users. If we need to rely on consent as a legal basis for processing your information and your country requires consent from a parent, we may require your parent’s consent before we collect and use that information.
 
@@ -206,7 +206,7 @@ You may also send us an email at support@115.one to request access to, correct, 
 
 If you delete your User Contributions from the App, copies of your User Contributions may remain viewable in cached and archived pages or might have been copied or stored by other App users. Proper access and use of information provided on the App is governed by EULA.
 
-Additional Information for European Users
+#### Additional Information for European Users
 
 If you are a European User, you may have the following rights in relation to the personal information we hold about you, unless provided otherwise by relevant local legislation:
 
@@ -255,7 +255,7 @@ In relation to marketing communications, we will provide you with an “opt in�
 
 You may opt out of marketing-related emails by clicking on a link at the bottom of each such email, or by contacting us using the contact details above (Contact Information). You may continue to receive service-related and other non-marketing emails.
 
-Additional Information for European Users
+#### Additional Information for European Users
 
 We will get your express opt-in consent before we share your personal information with any third party for that third party’s marketing purposes.
 
@@ -264,7 +264,7 @@ We are based in the United States and so information is transferred to and acces
 
 By providing your personal information through the App you acknowledge that your personal information is transferred to and accessed by our personnel in the United States.
 
-Additional information for European users  
+#### Additional information for European users  
 
 Where our service providers or other third parties (identified above) based outside the European Economic Area, the UK or Switzerland receive personal information, we ensure the transfer is either (a) to a country deemed to provide an adequate level of protection by the European Commission or other relevant authority, or (b) pursuant to specific contracts approved by the European Commission or other relevant authority. Please contact us if you want further information on the specific mechanism used by us when transferring your personal information to a destination outside the European Economic Area, the UK or Switzerland.
 
@@ -279,9 +279,17 @@ We may update our privacy policy from time to time. If we make material changes 
 ## 13. Contact Information
 To ask questions or comment about this privacy policy and our privacy practices or to register a complaint or concern, please contact us at: 
 
-Email <support@115.one> marked for the attention of the Privacy Officer / Data Protection Officer in the subject line.
+#### Email
+Send email to <support@115.one> marked for the attention of the Privacy Officer / Data Protection Officer in the subject line.
 
-Mailing address: Life on Life LLC, PO Box 111653, Naples, FL 34108, USA
+#### Mailing address
+Life on Life LLC, PO Box 111653, Naples, FL 34108, USA
+
+<br/><br/> 
+
+
 
 *Last modified: 13 February 2021*
+
+
 
