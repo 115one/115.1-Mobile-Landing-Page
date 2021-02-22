@@ -9,3 +9,7 @@ div.markdown p a {
 div.markdown h3, h2 {
   margin-top: 20px;
 }
+
+body {
+  background-image: url();
+}

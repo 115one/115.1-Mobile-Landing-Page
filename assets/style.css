@@ -1,8 +1,8 @@
 :root {
   --font-xl: 42px;
   --font-lg: 24px;
-  --font-md: 20px;
-  --font-sm: 18px;
+  --font-md: 18px;
+  --font-sm: 16px;
   --font-xs: 16px;
   --font-xxs: 14px;
 }
@@ -19,7 +19,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  color: #222;
+  color: #5e5e5e;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -30,7 +30,7 @@ body {
   background-position-x: 20vw;
   background-position-y: -10vh;
   background-repeat: no-repeat;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 main {
@@ -275,14 +275,16 @@ html[dir=rtl] .app__logo-wrapper {
 }
 
 .footer {
-  padding: 16px 0;
+  padding-top: 66px;
+  padding-bottom: 26px;
   font-size: var(--font-xs) !important;
 }
+
 .footer a {
   font-size: var(--font-xs) !important;
 }
 .footer__container {
-  color: #65638f;
+  color: #000000;
   display: flex;
   width: 100%;
   justify-content: space-between;
