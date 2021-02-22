@@ -1,4 +1,13 @@
-{% include html_header.html %}
+<!DOCTYPE html>
+<html dir="auto" lang="en">
+
+<head>
+
+	{% include html_header.html %}
+	<link rel="stylesheet" href="/assets/markdown.css" />
+	<link rel="stylesheet" href="/assets/help.css" />
+
+</head>
 
 <body>
 	<main>
@@ -45,7 +54,6 @@
 
 					<header class="page__header">
 						<h1 class="page__title">115.1 Messenger</h1>
-						<h2 class="page__title">{{page.title}}</h1>
 					</header>
 					<div class="page__content">
 						<div class="markdown">
@@ -53,11 +61,15 @@
 						</div>
 					</div>
 				</article>
-				
+
+				{% include page_footer.html %}
+
+
 			</div>
+
 		</div>
 
-		{% include page_footer.html %}
+
 
 	</main>
 
