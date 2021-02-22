@@ -2,3 +2,7 @@ div.markdown ol {
   font-weight: 700;
   font-size: 25px;
 }
+
+div.markdown p a {
+  text-decoration: underline;
+}
