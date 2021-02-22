@@ -1,0 +1,82 @@
+{% include html_header.html %}
+
+<body>
+	<main>
+
+		<div class="wrapper d-flex align-items-stretch">
+
+			<nav id="sidebar">
+				<div class="p-4 pt-5">
+					<p>Support pages</p>
+					<ul class="list-unstyled components mb-5">
+
+						<li>
+							<a href="/help/backup">Backup and Restore</a>
+						</li>
+						<li>
+							<a href="/help/profiles">Profiles and Message Requests</a>
+						</li>
+						<li>
+							<a href="/help/pin">115.1 Messenger PIN</a>
+						</li>
+						<li>
+							<a href="/help/safety-number">What is a safety number?</a>
+						</li>
+						<li>
+							<a href="/help/debug">Debug Logs</a>
+						</li>
+						<li>
+							<a href="/support">Get support</a>
+						</li>
+					</ul>
+
+				</div>
+			</nav>
+
+			<!-- Page Content  -->
+			<div id="content" class="p-4 p-md-5">
+
+				<article class="page">
+
+					<button type="button" id="sidebarCollapse" class="btn" style="float: right;">
+						<i class="fa fa-bars"></i>
+						<span class="sr-only">Toggle Menu</span>
+					</button>
+
+					<header class="page__header">
+						<h1 class="page__title">115.1 Messenger</h1>
+						<h2 class="page__title">{{page.title}}</h1>
+					</header>
+					<div class="page__content">
+						<div class="markdown">
+							{{content}}
+						</div>
+					</div>
+				</article>
+				
+			</div>
+		</div>
+
+		{% include page_footer.html %}
+
+	</main>
+
+
+
+
+
+	<script src="/assets/jquery.min.js"></script>
+	<script src="/assets/bootstrap.min.js"></script>
+	<script src="/assets/main.js"></script>
+
+	<script type="text/javascript" src="/assets/tobi.min.js" />
+	</script>
+	<script>
+		window.onload = function () {
+			var tobi = new Tobi();
+		};
+	</script>
+
+</body>
+
+</html>
