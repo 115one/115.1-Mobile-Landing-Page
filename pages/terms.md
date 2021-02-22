@@ -4,7 +4,7 @@ layout: markdown
 permalink: /terms/
 ---
 
-This End User License Agreement (“EULA”) is between Life on Life LLC, a limited liability company existing under the laws of Delaware and you as the user (“Licensee”) of this software application called 115.1 (“App”). This EULA governs Licensee’s Use of the App and the Licensed Content. For good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+This End User License Agreement (“EULA”) is between Life on Life LLC, a limited liability company existing under the laws of Delaware and you as the user (“Licensee”) of this software application called 115.1 Messenger (“App”). This EULA governs Licensee’s Use of the App and the Licensed Content. For good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
 
 ## 1. Certain Definitions. 
    

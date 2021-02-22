@@ -8,7 +8,7 @@ permalink: /privacy/
 
 Life on Life LLC, (“LL,” “us,” “our,” or “we”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes: 
 
-The types of information we may collect or that you may provide when you install, access, or use the 115.1 application (the "App").
+The types of information we may collect or that you may provide when you install, access, or use the 115.1 Messenger application (the "App").
 
 Our practices for collecting, using, storing, protecting, and disclosing that information.
 
