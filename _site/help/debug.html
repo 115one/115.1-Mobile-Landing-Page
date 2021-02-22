@@ -7,12 +7,14 @@
 
 	<meta name="description" content="My Page Description" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="icon" href="/assets/favicon.ico" />
+	<link rel="icon" href="assets/favicon.ico" />
 
 	<meta property="og:title" content="115.1 Messenger - Debug" />
-	<meta property="og:description" content="Debug"" />
+	<meta property="og:description" content="My Page Description" />
 	<meta property="og:image" content="assets/og-image.png" />
 
+    <link rel="stylesheet" href="/assets/bootstrap.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/assets/tobi.css" />
 	<link rel="stylesheet" href="/assets/style.css" />
 	<link rel="stylesheet" href="/assets/markdown.css" />
@@ -25,47 +27,97 @@
 
 <body>
 	<main>
-		<article class="page">
-			<header class="page__header">
-				<h1 class="page__title">Debug</h1>
-			</header>
-			<div class="page__content">
-				<div class="markdown">
-					<p>Coming soon</p>
+
+		<div class="wrapper d-flex align-items-stretch">
+
+			<nav id="sidebar">
+				<div class="p-4 pt-5">
+					<p>Support pages</p>
+					<ul class="list-unstyled components mb-5">
+
+						<li>
+							<a href="/help/backup">Backup and Restore</a>
+						</li>
+						<li>
+							<a href="/help/profiles">Profiles and Message Requests</a>
+						</li>
+						<li>
+							<a href="/help/pin">115.1 Messenger PIN</a>
+						</li>
+						<li>
+							<a href="/help/safety-number">What is a safety number?</a>
+						</li>
+						<li>
+							<a href="/help/debug">Debug Logs</a>
+						</li>
+						<li>
+							<a href="/support">Get support</a>
+						</li>
+					</ul>
 
 				</div>
+			</nav>
+
+			<!-- Page Content  -->
+			<div id="content" class="p-4 p-md-5">
+
+				<article class="page">
+
+					<button type="button" id="sidebarCollapse" class="btn" style="float: right;">
+						<i class="fa fa-bars"></i>
+						<span class="sr-only">Toggle Menu</span>
+					</button>
+
+					<header class="page__header">
+						<h1 class="page__title">115.1 Messenger</h1>
+						<h2 class="page__title">Debug</h1>
+					</header>
+					<div class="page__content">
+						<div class="markdown">
+							<p>Coming soon</p>
+
+						</div>
+					</div>
+				</article>
+				
 			</div>
-		</article>
+		</div>
 
-
+		<footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+            <p class="footer__love">
+                <script>document.write('&copy;&nbsp;' + (new Date()).getFullYear());</script>
+                <noscript>&copy;2021</noscript> All rights reserved
+                &mdash; Life on Life LLC
+            </p>
+            <ul class="footer__links">
+                <li class="footer__link">
+                    <a href="/">Home</a>
+                </li>
+                <li class="footer__link">
+                    <a href="/privacy">Privacy</a>
+                </li>
+                <li class="footer__link">
+                    <a href="/terms">Terms</a>
+                </li>
+                <li class="footer__link">
+                    <a href="/support">Support</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</footer>
 
 	</main>
 
-	<footer class="footer">
-		<div class="container">
-			<div class="footer__container">
-				<p class="footer__love">
-					<script>document.write('&copy;&nbsp;' + (new Date()).getFullYear());</script>
-					<noscript>&copy;2021</noscript> All rights reserved
-					&mdash; Life on Life LLC
-				</p>
-				<ul class="footer__links">
-					<li class="footer__link">
-						<a href="/">Home</a>
-					</li>
-					<li class="footer__link">
-						<a href="/privacy">Privacy</a>
-					</li>
-					<li class="footer__link">
-						<a href="/terms">Terms</a>
-					</li>
-					<li class="footer__link">
-						<a href="/support">Support</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</footer>
+
+
+
+
+	<script src="/assets/jquery.min.js"></script>
+	<script src="/assets/bootstrap.min.js"></script>
+	<script src="/assets/main.js"></script>
 
 	<script type="text/javascript" src="/assets/tobi.min.js" />
 	</script>
