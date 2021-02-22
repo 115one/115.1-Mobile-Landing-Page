@@ -1,6 +1,6 @@
 ---
 title: Help
-layout: markdown
+layout: help
 permalink: /help
 ---
 
