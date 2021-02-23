@@ -19,6 +19,8 @@ git push origin master
 
 Replace:
 https://www.npmjs.com/package/rqrauhvmra__tobi
+Use this for the docs:
+https://pmarsceill.github.io/just-the-docs
 
 ### Useful links
 
