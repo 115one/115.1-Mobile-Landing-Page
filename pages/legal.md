@@ -10,3 +10,8 @@ permalink: /legal/
 
 * [Terms of Service](/terms)
 * [Privacy Policy](/privacy)
+
+
+### Contact Information
+
+To ask questions or comment about our privacy practices or to register a complaint or concern, please send email to support@115.one, or write to Life on Life LLC, PO Box 111653, Naples, FL 34108, USA.
