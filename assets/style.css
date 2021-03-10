@@ -88,7 +88,7 @@ a:hover {
 }
 
 .container {
-  max-width: 960px;
+  max-width: 1366px;
   padding: 0 30px;
   margin: auto;
 }
@@ -99,7 +99,7 @@ h1, h2 {
 }
 
 .container-desktop {
-  max-width: 960px;
+  max-width: 1366px;
   padding: 0 30px;
   margin: auto;
 }
@@ -173,7 +173,7 @@ html[dir=rtl] .app__logo-wrapper {
 }
 .app__screenshots-list {
   display: grid;
-  grid-template-columns: 200px 200px 200px 200px 200px 200px;
+  grid-template-columns: 243px 243px 243px 243px;
   grid-column-gap: 20px;
   padding: 30px 0;
 }
@@ -312,7 +312,7 @@ html[dir=rtl] .app__logo-wrapper {
 }
 
 .page {
-  max-width: 960px;
+  max-width: 1366px;
   padding: 0 30px;
   margin: auto;
 }
